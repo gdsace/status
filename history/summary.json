@@ -1,0 +1,40 @@
+[
+  {
+    "name": "code",
+    "url": "https://code.gov.sg",
+    "icon": "https://favicons.githubusercontent.com/code.gov.sg",
+    "slug": "code",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1589,
+    "timeDay": 1589,
+    "timeWeek": 1589,
+    "timeMonth": 1589,
+    "timeYear": 1589,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "blog",
+    "url": "https://blog.hive.gov.sg",
+    "icon": "https://favicons.githubusercontent.com/blog.hive.gov.sg",
+    "slug": "blog",
+    "status": "down",
+    "uptime": "25.37%",
+    "uptimeDay": "25.37%",
+    "uptimeWeek": "25.37%",
+    "uptimeMonth": "25.37%",
+    "uptimeYear": "25.37%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-10": 0
+    }
+  }
+]
