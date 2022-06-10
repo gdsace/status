@@ -1,25 +1,19 @@
-# Change these first
-owner: gdsace # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+# This repo info
+owner: gdsace # GitHub organization or username
+repo: status # Name
 
 sites:
   - name: code
     url: https://code.gov.sg
   - name: blog
     url: https://blog.hive.gov.sg
+  - name: qv
+    url: https://peer-nomination.gahmen.io
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname:
-  # baseUrl: /your-repo-name
+  # cname: "" # for custom domain
+  baseUrl: /status
   name: Status
-  introTitle: "Monitoring our sites (via **Upptime**)"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
