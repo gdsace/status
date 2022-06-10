@@ -6,7 +6,7 @@ sites:
   - name: code
     url: https://code.gov.sg
   - name: blog
-    url: https://blog.hive.gov.sg
+    url: https://blog.gds-gov.tech
   - name: qv
     url: https://peer-nomination.gahmen.io
 
